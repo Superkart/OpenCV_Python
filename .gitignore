@@ -1,6 +1,6 @@
 # Virtual environment
 venv/
-.opencv/
+opencv/
 
 # Python cache
 __pycache__/
